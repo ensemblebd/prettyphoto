@@ -483,7 +483,7 @@
 				
 				pp_open = false;
 				
-				delete settings;
+				//delete settings;
 			});
 		};
 	
